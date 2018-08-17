@@ -1,0 +1,4 @@
+source is still at CD center, but more realistic, since I add source enclosure in my study
+and n-Fe source is more complicated, so I didn't consider it
+
+fit4_cor2.C bias is corrected, but we use bias as uncertainty.
